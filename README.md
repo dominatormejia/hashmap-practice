@@ -1,3 +1,3 @@
-# Template
+# Hashmap Practice
 
-Template for basic projects
+Hashmap Practice for the Odin Project Javascript Course
